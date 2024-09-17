@@ -8,12 +8,12 @@
 * Conceitos de Herança e polimorfismo;
 * sobrescrita de métido com @override
 
-Ao final do curso foi propsotos este desafio com as seguintes regras abaixo? 
+Ao final do curso foi propsotos este desafio com as seguintes regras abaixo:
 
 # Desafio
 
 
-Vamos implementar uma aplicação para cadastrar nossas músicas e podcasts preferidos, modelando as classes utilizando os conceitos de orientação a objetos: abstração, herança, encapsulamento e polimorfismo. 
+Implementar uma aplicação para cadastrar nossas músicas e podcasts preferidos, modelando as classes utilizando os conceitos de orientação a objetos: abstração, herança, encapsulamento e polimorfismo. 
 
 ## 🔨 Objetivos do projeto
 
